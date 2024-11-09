@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding:0;
+
+}
+.navbar{
+  height: 40px;
+  background-color: dodgerblue;
+}
+
+.navbar a{
+  color: white;
+  font-size: 22px;
+  margin-left: 15px;
+  line-height: 35px;
+}
+
